@@ -1,0 +1,12 @@
+
+{
+  "name": "Pre-Fusion",
+  "version": "15.0.1",
+  "title": "Pre-Fusion",
+  "author": "Ranakastrasz",
+  "contact": "~",
+  "homepage": "",
+  "description": "Increases Solar Panel Output.",
+  "dependencies": ["base"],
+  "factorio_version": "0.15"
+}
